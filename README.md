@@ -1,7 +1,6 @@
 # GUIDES
-Documentation is being created here for all purposes. All under the FDL (see license).
 
-__REWRITE IN PROGRESS__  
-I'll be rewriting the list and changing the links. Please check later for name changes to the files and their updated links.
+This is a fork of mayfrost's [guides](https://github.com/mayfrost/guides)
+mayfrost seems to have abandon the project so I fork it and updated it, feel free to open pull requests if you want to contribute.
 
-For comments go to the IRC channel #nfo at the [Rizon](https://rizon.net/chat) network.
+The purpose of this repo is to have various lists of software alternatives for reference and informational purposes.
