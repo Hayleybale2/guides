@@ -387,6 +387,7 @@ Note: All this terminals are compatible with wayland
 * __Text Encoding__: [fuse-convmvfs](https://github.com/knu/fuse-convmvfs), [Dos2Unix](https://sourceforge.net/projects/dos2unix/)
 * __Text Formatting and Pretty Printing__: [par](http://www.nicemice.net/par/) -> fmt (Textutils)
 * __Text-To-Speech__: [Orca](https://wiki.gnome.org/action/show/Projects/Orca) -> [Gespeaker](https://github.com/muflone/gespeaker) -> [eBook-speaker](http://jlemmens.nl/) (+ pandoc) -> [eSpeak](https://github.com/espeak-ng/espeak-ng/)
+* __Translation Editor__: [Poedit](https://poedit.net/) -> [poe](https://git.sr.ht/~strahinja/poe)
 * __Typesetting__: [LaTeX](https://www.latex-project.org/) -> [Texinfo](https://www.gnu.org/software/texinfo/) -> [Discount](https://www.pell.portland.or.us/~orc/Code/discount/) (Markdown) -> [groff (tbl, pic, eqn, chem, music, dpic, grohtml)](https://www.gnu.org/software/groff/)
 * __Typing Training__: [Klavaro](https://klavaro.sourceforge.io/en/) -> [GNU Typist](https://www.gnu.org/software/gtypist/)
 * __Word Processor__: [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) -> [Abiword](https://www.abisource.com/) -> [WordGrinder](http://cowlark.com/wordgrinder/)
