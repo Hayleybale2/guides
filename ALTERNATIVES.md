@@ -662,7 +662,7 @@ Note: All this terminals are compatible with wayland
 * __X Event Display__: [xprop](https://gitlab.freedesktop.org/xorg/app/xprop)
 
 ## Wayland
-* __Application Launcher__: [bemenu](https://github.com/Cloudef/bemenu) -> [fuzzel](https://codeberg.org/dnkl/fuzzel) -> [wofi](https://hg.sr.ht/~scoopta/wofi) -> [mauncher](https://github.com/mortie/mauncher) -> [nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) -> [yofi](https://github.com/l4l/yofi) -> [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland) 
+* __Application Launcher__: [wofi](https://hg.sr.ht/~scoopta/wofi)`C` -> [kickoff](https://github.com/j0ru/kickoff)`Rust` -> [yofi](https://github.com/l4l/yofi)`Rust` -> [nwg-launchers](https://github.com/nwg-piotr/nwg-launchers)`C++` -> [mauncher](https://github.com/mortie/mauncher)`C` -> [bemenu](https://github.com/Cloudef/bemenu)`C` -> [fuzzel](https://codeberg.org/dnkl/fuzzel)`C` -> [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland)`C`
 * __Clipboard__: [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 * __Desktop Automation__: [ydotool](https://github.com/ReimuNotMoe/ydotool) -> [wtype](https://github.com/atx/wtype) 
 * __Login Manager__: [SDDM](https://github.com/sddm/sddm/) -> [lightDM](https://github.com/canonical/lightdm) -> [tbsm](https://loh-tar.github.io/tbsm/) -> [ly](https://github.com/nullgemm/ly)
