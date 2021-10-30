@@ -229,7 +229,7 @@ Note: All this terminals are compatible with wayland
 * __Device Management (and module autoloader)__: evdev -> [vdev](https://github.com/jcnelson/vdev)
 * __Disk Cloning and Writing__: dd -> [dc3dd](https://sourceforge.net/projects/dc3dd/)
 * __Display Color Temperature__: [Redshift](http://jonls.dk/redshift/) -> [sct](https://github.com/mgudemann/sct) | [gammastep](https://gitlab.com/chinstrap/gammastep) (wayland) -> [wlsunset](https://git.sr.ht/~kennylevinsen/wlsunset) (wayland)
-* __Display Settings__: xrandr -> fbset | [wlr-randr](https://github.com/emersion/wlr-randr) (wayland)
+* __Display Settings__: xrandr`c` -> fbset`c` | [wlr-randr](https://sr.ht/~emersion/wlr-randr/)`c` (wayland)
 * __Displays (Miracast)__: [MiracleCast](https://github.com/albfan/miraclecast)
 * __Hardware Bus__: [multipath-tools](https://github.com/opensvc/multipath-tools), [I2C Tools](https://i2c.wiki.kernel.org/index.php/I2C_Tools), [IPMI Tool](https://github.com/ipmitool/ipmitool) (ipmitool, ipmiutil) (IPMI DANGEROUS IF ENABLED)
 * __Hardware RAID__: [mdadm](https://git.kernel.org/pub/scm/utils/mdadm/mdadm.git/) -> dmraid
