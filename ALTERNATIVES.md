@@ -361,7 +361,7 @@ Note: All this terminals are compatible with wayland
 * __Address book__: [abook](https://github.com/hhirsch/abook)
 * __Desktop Publishing__: [Scribus](https://www.scribus.net/)
 * __Dictionary__: [Goldendict](https://github.com/goldendict/goldendict) -> [Artha](https://sourceforge.net/projects/artha/) -> [Dico](https://puszcza.gnu.org.ua/software/dico/)
-* __Document Format Conversion__: [unoconv](https://github.com/unoconv/unoconv) -> [Pandoc](https://pandoc.org/) -> [inf2manp](https://gitlab.com/darfo/inf2manp)
+* __Document Format Conversion__: [unoconv](https://github.com/unoconv/unoconv)`Python` -> [md2pdf](https://github.com/jmaupetit/md2pdf)`Python` -> [Pandoc](https://pandoc.org/)`Haskell` -> [inf2manp](https://gitlab.com/darfo/inf2manp)`Awk`
 * __Document Processor__: Emacs ([AUCTeX](https://www.gnu.org/software/auctex/)) -> [LyX](https://www.lyx.org/) -> [GNU TeXmacs](http://texmacs.org/tmweb/home/welcome.en.html)
 * __Ebook Utilities__: [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools)
 * __Ebook Utilities (CHM)__: [xCHM](https://xchm.sourceforge.io/)
