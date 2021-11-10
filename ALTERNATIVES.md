@@ -504,7 +504,7 @@ Note: All this terminals are compatible with wayland
 * __Astronomy (Satelline Tracking)__: [SaVi satellite constellation visualizer](https://sourceforge.net/projects/savi/)
 * __Bioinformatics__: [OpenSim](https://simtk.org/projects/opensim/), [Cytoscape](http://www.cytoscape.org/), [BioJava](https://github.com/biojava/biojava) -> [UGENE](http://ugene.net/) -> [SAMtools](https://github.com/samtools/samtools) -> [BioPerl](http://bioperl.org/)
 * __CAD__: [Blender](https://www.blender.org/) -> [FreeCAD](https://www.freecadweb.org/) -> [LibreCAD](https://librecad.org/) -> [OpenSCAD](https://github.com/openscad/openscad)
-* __Circuit Simulator__: [KiCad](http://kicad-pcb.org/) -> [ngspice](http://ngspice.sourceforge.net/) -> [Gnucap](http://www.gnucap.org/dokuwiki/doku.php?id=gnucap:start)
+* __Circuit Simulator__: [KiCad](http://kicad.org/) -> [ngspice](http://ngspice.sourceforge.net/) -> [Gnucap](http://www.gnucap.org/dokuwiki/doku.php?id=gnucap:start)
 * __Computational Fluid Dynamics__: [TELEMAC](http://www.opentelemac.org/) -> [FEATFLOW](http://www.featflow.de/en/index.html) -> [OpenFOAM](https://directory.fsf.org/wiki/OpenFOAM) -> [Gerris](http://gfs.sourceforge.net/wiki/index.php/Main_Page)
 * __Computer Algebra System__: [Singular](http://www.singular.uni-kl.de/) -> [Maxima](http://maxima.sourceforge.net/) (+ [PLplot](http://plplot.sourceforge.net/)) -> bc + GNU Units
 * __Data Visualization__: [SocNetV](https://github.com/socnetv) -> [Gephi](https://github.com/gephi/gephi) -> [Tulip](http://tulip.labri.fr/TulipDrupal/)
