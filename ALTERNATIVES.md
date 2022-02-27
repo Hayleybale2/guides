@@ -670,7 +670,7 @@ Note: All this terminals are compatible with wayland
 * __Panel__: [yambar](https://codeberg.org/dnkl/yambar) -> [sfwbar](https://github.com/LBCrion/sfwbar)
 * __Status Bar__: [rootbar](https://hg.sr.ht/~scoopta/rootbar) -> [waybar](https://github.com/Alexays/Waybar)
 * __Screensaver__: [swaylock](https://github.com/swaywm/swaylock) -> [swayidle](https://github.com/swaywm/swayidle) 
-* __Wallpaper Changer (Animated)__: [wallutils](https://github.com/xyproto/wallutils) -> [oguri](https://github.com/vilhalmer/oguri)
+* __Wallpaper Changer (Animated)__: [wallutils](https://github.com/xyproto/wallutils)`Go` -> [swww](https://github.com/Horus645/swww)`Rust` -> [oguri](https://github.com/vilhalmer/oguri)`C`
 * __Wallpaper Changer (Still)__: [swaybg](https://github.com/swaywm/swaybg)`C` -> [wbg](https://codeberg.org/dnkl/wbg)`C`
 * __Wallpaper Changer (Video)__: [mpvpaper](https://github.com/GhostNaN/mpvpaper) 
 * __Window Manager__: [wayfire](https://wayfire.org/) -> [labwc](https://github.com/johanmalm/labwc) -> [japokwm](https://github.com/werererer/japokwm) -> [cagebreak](https://github.com/project-repo/cagebreak) -> [vivarium](https://github.com/inclement/vivarium) -> [Taiwins](https://github.com/taiwins/taiwins) -> [waybox](https://github.com/wizbright/waybox) -> [weston](https://gitlab.freedesktop.org/wayland/weston) -> [sawy](https://github.com/swaywm/sway) -> [waymonad](https://github.com/waymonad/waymonad) -> [hikari](https://hub.darcs.net/raichoo/hikari) -> [dwl](https://github.com/djpohly/dwl) -> [velox](https://github.com/michaelforney/velox)
