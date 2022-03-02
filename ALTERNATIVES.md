@@ -124,7 +124,7 @@ Note: All this terminals are compatible with wayland
 * __Booru__: [ahoviewer](https://github.com/ahodesuka/ahoviewer)
 * __General__: [Weboob](https://weboob.org/) -> [Rambox](https://github.com/saenzramiro/rambox)
 * __Reddit__: [PRAW](https://praw.readthedocs.io/en/latest/) -> [cReddit](https://github.com/Cotix/cReddit) -> [tuir](https://gitlab.com/ajak/tuir) -> [ttrv](https://github.com/tildeclub/ttrv) -> [reddio](https://gitlab.com/aaronNG/reddio)
-* __Telegram__: [Telegram Desktop](https://desktop.telegram.org/) -> [ncTelegram](https://github.com/Nanoseb/ncTelegram) -> [Telegram-Purple](https://github.com/majn/telegram-purple)
+* __Telegram__: [Telegram Desktop](https://desktop.telegram.org/) -> [ncTelegram](https://github.com/Nanoseb/ncTelegram) -> [tdlib-purple](https://github.com/ars3niy/tdlib-purple/)
 * __Twitter__: [turses](https://turses.readthedocs.io/en/latest/) -> [oysttyer](https://github.com/oysttyer/oysttyer)
 * __Youtube__: [mps-youtube](https://github.com/mps-youtube/mps-youtube) -> [youtube-viewer](https://github.com/trizen/youtube-viewer)
 
