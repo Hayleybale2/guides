@@ -663,7 +663,7 @@ Note: All this terminals are compatible with wayland
 
 ## Wayland
 * __Application Launcher__: [wofi](https://hg.sr.ht/~scoopta/wofi)`C` -> [kickoff](https://github.com/j0ru/kickoff)`Rust` -> [yofi](https://github.com/l4l/yofi)`Rust` -> [nwg-launchers](https://github.com/nwg-piotr/nwg-launchers)`C++` -> [mauncher](https://github.com/mortie/mauncher)`C` -> [bemenu](https://github.com/Cloudef/bemenu)`C` -> [fuzzel](https://codeberg.org/dnkl/fuzzel)`C` -> [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland)`C`
-* __Clipboard__: [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
+* __Clipboard__: [wl-clipboard](https://github.com/bugaevc/wl-clipboard)`C` -> [wayclip](https://github.com/noocsharp/wayclip)`C`
 * __Desktop Automation__: [ydotool](https://github.com/ReimuNotMoe/ydotool) -> [wtype](https://github.com/atx/wtype) 
 * __Login Manager__: [SDDM](https://github.com/sddm/sddm/) -> [lightDM](https://github.com/canonical/lightdm) -> [tbsm](https://loh-tar.github.io/tbsm/) -> [ly](https://github.com/nullgemm/ly)
 * __Notification (Daemon)__: [swaync](https://github.com/ErikReider/SwayNotificationCenter)`Vala` -> [dunst](https://github.com/dunst-project/dunst)`C` -> [mako](https://github.com/emersion/mako)`C` 
