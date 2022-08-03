@@ -324,7 +324,7 @@ Note: All this terminals are compatible with wayland
 * __Fractals and Random Computer Artwork__: [Mandelbulber](https://github.com/buddhi1980/mandelbulber2)
 * __Image Editing__: [GIMP](https://www.gimp.org/) -> [RawTherapee](https://www.rawtherapee.com/) -> [GraphicsMagick](http://www.graphicsmagick.org/) -> [Netpbm](https://sourceforge.net/projects/netpbm/) -> [G'MIC](https://github.com/dtschump/gmic) -> [Gifsicle](https://github.com/kohler/gifsicle) -> [ImageMagick](https://imagemagick.org/index.php) (display, import)
 * __Image Optimizing__: [OptiPNG](http://optipng.sourceforge.net/) -> [pngcrush](https://pmt.sourceforge.io/pngcrush/) -> [pngquant](https://pngquant.org/)
-* __Image Viewer__: [pqiv](https://github.com/phillipberndt/pqiv) -> [Feh](https://feh.finalrewind.org/) -> [imv](https://github.com/eXeC64/imv) -> [sxiv](https://github.com/muennich/sxiv) -> [lsix](https://github.com/hackerb9/lsix) -> display (ImageMagick) -> [fim](http://www.nongnu.org/fbi-improved/) -> [idump](https://github.com/uobikiemukot/idump)
+* __Image Viewer__: [imv](https://git.sr.ht/~exec64/imv/)`C` -> display ([ImageMagick](https://github.com/ImageMagick/ImageMagick))`C` -> [sxiv](https://github.com/muennich/sxiv)`C` -> [Feh](https://feh.finalrewind.org/)`C` -> [fim](http://www.nongnu.org/fbi-improved/)`C++` -> [lsix](https://github.com/hackerb9/lsix)`BASH` -> [Swayimg](https://github.com/artemsen/swayimg)`C` -> [idump](https://github.com/uobikiemukot/idump)`C`
 * __Plotting__: [Gnuplot](http://www.gnuplot.info/) -> [Ngraph-gtk](https://htrb.github.io/ngraph-gtk/) -> [PLplot](http://plplot.sourceforge.net/)
 
 ### Metadata
