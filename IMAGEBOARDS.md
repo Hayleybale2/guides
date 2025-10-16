@@ -75,6 +75,7 @@ Last update: Jun-01-2022
 * [Musikchan](http://musikchan.com/music/index.html)
 * [plus4chan](https://boards.plus4chan.org/)
 * [tanoshiine.info](https://tanoshiine.info/radio/)
+* [CRBAchan](https://ib.crba.dedyn.io)
 
 ## Partially Open Source
 * [Ponychan](https://www.ponychan.net/) (3739345)
